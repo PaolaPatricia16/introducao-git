@@ -12,4 +12,3 @@ git branch
 
 git commit - CONFIRMA AS ALTERAÇÕES
 
-=======
