@@ -9,3 +9,7 @@ Agora estamos na branch nova
 git checkout -b dev
 git branch
 >>>>>>> dev
+
+git commit - CONFIRMA AS ALTERAÇÕES
+
+=======
